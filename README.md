@@ -168,125 +168,53 @@ The dashboard includes measures such as:
 
 \## 📈 Dashboard Pages
 
+The Power BI dashboard is divided into six analytical views.
 
+### 1. Executive Overview
 
-\### 1. Executive Overview
+High-level business performance including sales, profit, orders, customers, monthly trends, category performance, and geographic sales.
 
-Provides a high-level summary of:
+![Executive Overview](Screenshots/Executive-Overview.png)
 
+---
 
+### 2. Sales & Profit Analysis
 
-\- Sales
+Detailed analysis of revenue and profitability across categories and sub-categories.
 
-\- Profit
+![Sales & Profit Analysis](Screenshots/Sales-Profit-Analysis.png)
 
-\- Orders
+---
 
-\- Customers
+### 3. Customer Intelligence
 
-\- Average Order Value
+Analysis of customer value, top customers, customer sales trends, states, and categories.
 
-\- Profit Margin
+![Customer Intelligence](Screenshots/Customer-Intelligence.png)
 
-\- Monthly sales trends
+---
 
-\- Sales vs target
+### 4. Product Intelligence
 
-\- Category performance
+Analysis of product and sub-category sales, profit, quantity, and margins.
 
-\- State performance
+![Product Intelligence](Screenshots/Product-Intelligence.png)
 
+---
 
+### 5. Geographic Analysis
 
-\### 2. Sales \& Profit Analysis
+Analysis of sales and profit across states and cities.
 
-Analyzes:
+![Geographic Analysis](Screenshots/Geographic-Analysis.png)
 
+---
 
+### 6. Target & Performance
 
-\- Sales by sub-category
+Comparison of actual sales against targets, including target achievement and sales variance.
 
-\- Profit by sub-category
-
-\- Monthly sales
-
-\- Monthly profit
-
-\- Category and sub-category performance
-
-
-
-\### 3. Customer Intelligence
-
-Analyzes:
-
-
-
-\- Customer count
-
-\- Orders per customer
-
-\- Top customers
-
-\- Customer sales by state
-
-\- Customer sales by category
-
-\- Customer sales trends
-
-
-
-\### 4. Product Intelligence
-
-Analyzes:
-
-
-
-\- Product category performance
-
-\- Sub-category sales
-
-\- Sub-category profit
-
-\- Quantity sold
-
-\- Profit margins
-
-
-
-\### 5. Geographic Analysis
-
-Analyzes:
-
-
-
-\- Sales by state
-
-\- Profit by state
-
-\- Sales by city
-
-\- Geographic performance
-
-
-
-\### 6. Target \& Performance
-
-Analyzes:
-
-
-
-\- Actual sales vs target
-
-\- Target achievement
-
-\- Sales variance
-
-\- Category-level performance
-
-
-
-\---
+![Target & Performance](Screenshots/Target-Performance.png)
 
 
 
